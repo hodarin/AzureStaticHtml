@@ -1,0 +1,2 @@
+# AzureStaticHtml
+AzureStaticHtml
